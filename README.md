@@ -26,8 +26,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Screenshots
 
-[regexinto](/images/regexintro.png)
-[regexmid](/images/regexmid.png)
+![regexinto](/images/regexintro.png)
+![regexmid](/images/regexmid.png)
 
 ## Links
 
