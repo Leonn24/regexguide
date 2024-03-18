@@ -150,5 +150,7 @@ Escape sequences, are characters that can't be directly typed in a string, so th
 ## Author
 
 [Leon Hoti](https://github.com/Leonn24)
+
 [Deployed GitHub-Gist Link: Click Here](https://gist.github.com/Leonn24/573032ef7b89bc003c4d0c81b6dc031f)
+
 [Deployed GitHub Repo Link: Click Here](https://github.com/Leonn24/regexguide)
